@@ -79,7 +79,7 @@ Constraints for data validation:
 * User press “Cancel” button;
 * List of clients without changes is displaying.
 
-![Product, Descriptions and Remaining Quantity](https://raw.githubusercontent.com/DallyingOrc920/TEST-final-project-kostenko-v-a/35d292ce16dd8702ce0e25eaa53dcd1d97eb2255/Documentation/Diagrams_T/Product_and_Descriprion.png?token=AY57SHRTAWKB2WOSWM6VGFDD6PLRI)
+![Product, Descriptions and Remaining Quantity](https://github.com/DallyingOrc920/TEST-final-project-kostenko-v-a/blob/35d292ce16dd8702ce0e25eaa53dcd1d97eb2255/Documentation/Diagrams_T/Product_and_Descriprion.png?raw=true)
 
 Pic. 2.1 Product, Descriptions and Remaining Quantity.
 
@@ -100,7 +100,7 @@ The list displays the following columns:
 * If error occurs, then error message is displaying;
 * If new order record is successfully added, then list of orders with added records is displaying.
 
-![Add Product and Descriptions add order button](https://raw.githubusercontent.com/DallyingOrc920/TEST-final-project-kostenko-v-a/d1fa0c3af56c9ad658414b3081aa1ad49edbabe4/Documentation/Diagrams_T/Product_and_Descriprion_Add_Order_button.png?token=AY57SHW4YIE3N6WRNKGUUPLD6PLTC)
+![Add Product and Descriptions add order button](https://github.com/DallyingOrc920/TEST-final-project-kostenko-v-a/blob/d1fa0c3af56c9ad658414b3081aa1ad49edbabe4/Documentation/Diagrams_T/Product_and_Descriprion_Add_Order_button.png?raw=true)
 
 Pic. 2.2 Product and Descriptions Add order button
 
