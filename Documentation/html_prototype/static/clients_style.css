@@ -1,0 +1,67 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+header a {
+    color: #fff;
+    text-decoration: none;
+    margin-right: 420px;
+}
+
+.button {
+    background-color: orange;
+    color: #fff;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+
+table {
+    margin: auto;
+    border-collapse: collapse;
+    width: 101%;
+}
+
+th, td {
+  border: 1px solid black;
+  padding: 20px;
+  text-align: center;
+  word-wrap: break-word;
+  max-width: 200px;
+}
+
+
+
+.edit-btn, .delete-btn {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    border: none;
+    cursor: pointer;
+    margin: 0 5px;
+    padding: 0;
+}
+
+.edit-btn {
+    background-image: url('https://img2.freepng.ru/20180330/gdw/kisspng-computer-icons-writing-editing-write-5abea06ab2fd64.1996679615224423467332.jpg');
+}
+
+.delete-btn {
+    background-image: url('https://cdn-icons-png.flaticon.com/512/73/73806.png');
+}
+
